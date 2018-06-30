@@ -6,5 +6,5 @@ GIT常用命令
 5. git reset HEAD^   回退一个版本
 6. git diff HEAD -- README.md  查看工作区与版本库文件区别
 7. git checkout -- file 丢弃工作区的文件
-8. git remote https://github.com/dhpoin/learngit.git
+8. git remote  add origin https://github.com/dhpoin/learngit.git
 9. git push -u origin master
